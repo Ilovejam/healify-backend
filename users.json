@@ -1,0 +1,33 @@
+[
+    {
+      "user_name": "admin_şerif",
+      "name": {
+        "first": "Şerif",
+        "last": "Şişman"
+      },
+      "user_id": "6",
+      "birthdate": "1990-01-25",
+      "languages": ["English", "Turkish"],
+      "gender": "Male",
+      "phone": "+1 987-654-3210",
+      "facebook_handle": "healer.şerif",
+      "twitter_handle": "healer_emily1",
+      "instagram_handle": "healer.emily1",
+      "business_name": "Emily's Wellness Hub",
+      "specialties": ["Yoga", "Meditation"],
+      "practice_description": "I offer yoga and guided meditation to improve mental and physical health.",
+      "location": {
+        "city": "San Francisco",
+        "state": "CA",
+        "country": "USA"
+      },
+      "experience_years": 5,
+      "session_type": ["In Person", "Video"],
+      "education": ["Yoga Instructor Certification", "Meditation Coach Course"],
+      "inspiration": "The transformational power of mindfulness.",
+      "success_story": "Helped a client lose 20 pounds through yoga and diet change.",
+      "hobbies": ["Hiking", "Cooking"],
+      "certifications": ["Certified Yoga Instructor"]
+    }
+    
+  ]
